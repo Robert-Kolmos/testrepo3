@@ -1,3 +1,3 @@
 make some changes to a test file
-we are going to intentionally cause another small merge conflict
+we are going to intentionally cause a small merge conflict
 weeeea;dlkjfa;lksdjf
